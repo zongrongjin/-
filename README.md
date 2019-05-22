@@ -5,3 +5,8 @@
 # Learning python at 2019-05  
  Here are my learning codes.  
  Updated at 05/14  
+# Add some notes for this text.
+ Project.py is the source code for finish the project.
+ All Codes will renamed by chinese 
+ And the learning nodes will be uploaded by learning which names by english names.
+ 
