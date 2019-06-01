@@ -9,4 +9,4 @@
  Project.py is the source code for finish the project.    
  All Codes will renamed by chinese      
  And the learning nodes will be uploaded by learning which names by english names.          
- 
+# The code which 求取第二大值 all have bug     
