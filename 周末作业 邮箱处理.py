@@ -10,8 +10,7 @@ def work(path):
 		lineInfo = f.readline()
 		if lineInfo.split(",")[-2][-1] != "m":
 			if lineInfo.split(",")[-2][-1] != "n":
-				if len(lineInfo) < 5 :
-					continue
+				continue
 		#曹阳,32010619720506042x,F,19720506,-,210005,13770848687,025-842019149,-,cy_qing@163.com,0
 		mailStr = lineInfo.split(",")[9]
 		nameStr = lineInfo.split(",")[0]
